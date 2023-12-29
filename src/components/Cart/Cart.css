@@ -1,0 +1,31 @@
+.cart{
+    margin-left: 10px;
+}
+.cart h3{
+    text-align: center;
+}
+.cart p{
+    text-align: center;
+    font-size: 17px;
+    line-height: 15px;
+}
+.cart-table{
+    font-size: 13px;
+    text-align: left;
+}
+.price{
+    color: #b12704;;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 22px;
+}
+.order-btn{
+    background-color: #f0c14b;
+    border: 1px solid;
+    border-radius: 3px;
+    border-color:  #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    cursor: pointer;
+}

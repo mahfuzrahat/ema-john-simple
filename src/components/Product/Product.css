@@ -30,3 +30,9 @@
 .product-description{
     display: flex;
 }
+.ratings{
+    color: #ffbd00;
+}
+.fa-star{
+    color: #ffbd00;
+}
